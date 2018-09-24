@@ -47,6 +47,19 @@
 		<slide :index="2">
     <img src="/images/exhibition3.jpg" alt="">
     </slide>
+    <slide :index="3">
+    <img src="/images/exhibition4.jpg" alt="">
+    </slide>
+    <slide :index="4">
+    <img src="/images/exhibition5.jpg" alt="">
+    </slide>
+    <slide :index="5">
+    <img src="/images/exhibition6.jpg" alt="">
+    </slide>
+    <slide :index="6">
+    <img src="/images/exhibition7.jpg" alt="">
+    </slide>
+
 
 		
   </carousel-3d>
@@ -55,7 +68,7 @@
 <script >new Vue({
   el: '#carousel3d',
   data: {
-    slides: 3
+    slides: 7
   },
   components: {
     'carousel-3d': Carousel3d.Carousel3d,
