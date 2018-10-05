@@ -99,7 +99,6 @@
 
     <div class="home-desc">We are the exclusive sales agent and the official servicing arm of this top of the line machines and as well as Management enhancement applications.</div>
    
-    <div class="home-ourpartners">Our Partners</div>
 
 
 <!-- Team -->
